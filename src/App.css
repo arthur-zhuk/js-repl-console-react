@@ -1,0 +1,35 @@
+body {
+  color: rgb(59, 252, 52);
+  background-color: #333;
+}
+
+.container {
+  background-color: #333;
+  margin-left: 0px; 
+}
+
+.row {
+  margin-left: 10px;
+} 
+
+li {
+  list-style-type: none;
+}
+
+.form-control {
+  color: rgb(59, 252, 52);
+  background-color: #333;
+  border: 0px #555;
+}
+
+.form-control:focus {
+  border-color: #555;
+  outline: 0;
+  -webkit-box-shadow: none; 
+  box-shadow: none; 
+  padding: 0;
+}
+
+.list-group {
+  padding-top: 10px;
+}
