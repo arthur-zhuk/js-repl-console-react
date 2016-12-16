@@ -2,10 +2,7 @@
 
 ## Overview
 
-![SS](http://imgur.com/LimDMta)
-
-This is a simple JS REPL built with React.
-
+![SS](http://i.imgur.com/LimDMta.png)
 ### Using the App
 
 Input JavaScript expressions to receive results.
